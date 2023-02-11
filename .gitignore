@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Extra files 
-Password container.txt
+psw_data.json
